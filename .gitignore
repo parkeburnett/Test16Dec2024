@@ -13,7 +13,7 @@ Thumbs.db
 .gradle/
 build/
 target/
-bin/
+initial/bin/
 gen/
 
 # Local Configuration File
